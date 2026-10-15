@@ -1,0 +1,1 @@
+".venv/","__pycache__/","*.pyc","","# Stockage local de MLflow","mlflow.db","mlartifacts/","mlruns/","","# Preferences locales de l'editeur",".vscode/" | Set-Content .gitignore -Encoding ascii
